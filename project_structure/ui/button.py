@@ -1,0 +1,2 @@
+# UIButton
+class Button: pass

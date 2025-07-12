@@ -1,0 +1,2 @@
+# UILabel
+class Label: pass

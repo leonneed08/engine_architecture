@@ -1,0 +1,2 @@
+# UILayout
+class Layout: pass
